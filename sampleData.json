@@ -5,7 +5,7 @@
     "blog_title": "10 Tips for Better Sleep",
     "blog_cover_image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
     "author_image": "https://www.jonathanmaberry.com/images/Author%20Photos/_imagecache/P=W275,H350,D/Jonathan%20headshot.png",
-    "read_time": "5 min",
+    "read_time": 5,
     "publish_date": "2022-01-01"
   },
   {
@@ -14,7 +14,7 @@
     "blog_title": "How to Build a Successful Online Business",
     "blog_cover_image": "https://plus.unsplash.com/premium_photo-1661761031332-26de7264c430?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
     "author_image": "https://sarahjmaas.com/wp-content/uploads/2021/08/Sarah-headshot-color-med.jpg",
-    "read_time": "10 min",
+    "read_time": 10,
     "publish_date": "2022-02-15"
   },
   {
@@ -23,7 +23,7 @@
     "blog_title": "The Benefits of Meditation",
     "blog_cover_image": "https://images.unsplash.com/photo-1536242918817-db5e93c7a0e4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
     "author_image": "https://kwamealexander.com/images/resources/Copy-of-Host-Cocreator-Kwame-Alexander-Portia-Wiggins-Photography.jpg",
-    "read_time": "8 min",
+    "read_time": 8,
     "publish_date": "2022-03-10"
   },
   {
@@ -32,7 +32,7 @@
     "blog_title": "Healthy Eating Habits for Busy People",
     "blog_cover_image": "https://images.unsplash.com/photo-1514168757508-07ffe9ae125b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
     "author_image": "https://www.skyewarren.com/wp-content/uploads/2018/11/45313854_468206530337798_5721811901961207808_n.jpg",
-    "read_time": "7 min",
+    "read_time": 7,
     "publish_date": "2022-04-02"
   },
   {
@@ -41,7 +41,7 @@
     "blog_title": "How to Stay Productive When Working From Home",
     "blog_cover_image": "https://images.unsplash.com/photo-1604090898152-3003bd1ae6df?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
     "author_image": "https://juliaquinn.com/WP/wp-content/themes/juliaquinn2016/images/global/JuliaQuinn_portrait_circle_01.png",
-    "read_time": "6 min",
+    "read_time": 6,
     "publish_date": "2022-05-20"
   },
   {
@@ -50,7 +50,7 @@
     "blog_title": "The Power of Positive Thinking",
     "blog_cover_image": "https://images.unsplash.com/photo-1562813733-b31f71025d54?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1469&q=80",
     "author_image": "https://miasosa.com/wp-content/uploads/2021/12/MiaSosa_AuthorPhoto1_HighRes-239x300.jpg",
-    "read_time": "9 min",
+    "read_time": 9,
     "publish_date": "2022-06-12"
   }
 ]
